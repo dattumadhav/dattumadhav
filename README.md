@@ -1,5 +1,10 @@
 # 💫 About Me:
-An AI Powered Multimodal Research Assistant that leverages LLMs, APIs, and modern technologies to process and analyze multiple data formats efficiently.<br>Innovative projects in AI, full-stack web development, Java developer ,and cloud-based applications.<br>Enhancing my knowledge in advanced AI systems, scalable backend development, and DevOps practices.<br>Advanced Data Structures & Algorithms, system design, and improving my expertise in AWS and DevOps tools.<br>Java, DSA, MySQL, JavaScript, Python, APIs, Git & GitHub, and building AI-integrated web applications.<br>I enjoy exploring and researching emerging technologies to build impactful real-world solutions, and my work has been recognized with a Gold Medal at an EWB Forum event, awarded by an MLA. I also received prize money from a startup founder, and my achievement was featured in a Telangana newspaper.<br>I recently completed my B.Tech in Information Technology and I am currently looking for an opportunity where I can utilize my skills in Java, DSA, MySQL, JavaScript, AWS, DevOps, Python, and AI technologies to build a strong career in the IT industry
+I am a recent Information Technology graduate with a strong foundation in software development, problem-solving, and cloud technologies. Skilled in Java, Data Structures & Algorithms, MySQL, JavaScript, AWS, Git, GitHub, Jenkins, and Maven, I enjoy building scalable and user-focused applications that solve real-world problems.
+
+Throughout my academic journey, I have developed hands-on experience by building projects such as an AI-Powered Multimodal Research Assistant, a BookWise Recommendation System, and full-stack web applications. These projects have strengthened my understanding of software engineering principles, database management, cloud deployment, and modern development practices.
+
+I am passionate about continuous learning, technology innovation, and creating impactful software solutions. As a motivated and adaptable graduate, I am actively seeking opportunities in Software Development, Full Stack Development, Java Development, Cloud Engineering, and related IT roles where I can apply my technical skills, contribute to organizational success, and grow as a technology professional.
+
 
 
 ## 🌐 Socials:
